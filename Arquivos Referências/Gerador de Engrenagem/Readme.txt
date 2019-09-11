@@ -6,3 +6,5 @@ Para usar o Software Planetary Gear Generator utilizei duas coisas:
 https://planetarygenerator.mateuszdrwal.com/
 
 2) Software baixado que ierá gerar os arquivos
+
+Depois é só criar e usar!
