@@ -6,7 +6,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/luanrem/TCCCapsuleDispenser.git">
-    <img src="GitHubFiles/Desenho004.jpg" alt="Logo" width="800" height="386">
+    <img src="GitHubFiles/structure.gif" alt="Logo" width="670" height="630">
   </a>
 
   <h3 align="center">DISPENSADOR DE REMÉDIOS PARA O AUXÍLIO DE TERAPIASMEDICAMENTOSAS</h3>
