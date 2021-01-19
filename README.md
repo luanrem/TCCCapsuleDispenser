@@ -1,19 +1,18 @@
 # TCCCapsuleDispenser
-Dispensador de remédio para auxílio em terapias medicamentosas
+
+### OBS: This is not a code repo
 
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
   <a href="https://github.com/luanrem/TCCCapsuleDispenser.git">
-    <img src="GitHubFiles/Desenho004.jpg" alt="Logo" width="80" height="80">
+    <img src="GitHubFiles/Desenho004.jpg" alt="Logo" width="800" height="386">
   </a>
 
   <h3 align="center">DISPENSADOR DE REMÉDIOS PARA O AUXÍLIO DE TERAPIASMEDICAMENTOSAS</h3>
 
   <p align="center">
     My Undergraduate thesis
-    <br />
-    OBS: This is not a code repo.
     <br />
     <a href="https://github.com/luanrem/TCCCapsuleDispenser/tree/master/Document"><strong>Explore the PDF »</strong></a>
     <br />
